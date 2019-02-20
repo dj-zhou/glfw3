@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/joysticks.dir/joysticks.c.o CMakeFiles/joysticks.dir/__/deps/glad.c.o  -o joysticks -Wl,-rpath,/home/iot01/yugong_installer/third_party/glfw/src ../src/libglfw.so.3.2 -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/iconify.dir/iconify.c.o CMakeFiles/iconify.dir/__/deps/getopt.c.o CMakeFiles/iconify.dir/__/deps/glad.c.o  -o iconify -Wl,-rpath,/home/iot01/yugong_installer/third_party/glfw/src ../src/libglfw.so.3.2 -lm 
